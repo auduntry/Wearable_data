@@ -19,7 +19,7 @@ and SD for each activity for each subject.
 * The training and test data sets were joined using rbind. 
 * The average of the mean and SD values were averaged for each activity for each subject by 
   grouping and summarising using dplyr functions. 
-* The tidy data is saved to a csv file named tidyWearableData.csv.
+* The tidy data is saved to a csv file named tidyWearableData.txt.
 
 ## Variables
 The dimensions of the dataframe is 180 rows and 88 columns. 
